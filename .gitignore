@@ -1,0 +1,7 @@
+# Ignore all memories and skills (personal/project-specific)
+memory/*
+skills/*
+
+# Keep the example templates
+!memory/example.instructions.md
+!skills/example.instructions.md
